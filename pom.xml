@@ -3,11 +3,11 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>dat.sem3</groupId>
-    <artifactId>Opgave10</artifactId>
+    <artifactId>rest-jpa-devops-starter</artifactId>
     <version>1.0.1</version>
     <packaging>war</packaging>
 
-    <name>Opgave10</name>
+    <name>Opgave10(outdated)</name>
 
     <properties>
         <endorsed.dir>${project.build.directory}/endorsed</endorsed.dir>
